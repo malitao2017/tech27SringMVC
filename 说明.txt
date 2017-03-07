@@ -1,0 +1,19 @@
+
+springMVC技术详解
+参考：
+http://howtodoinjava.com/spring/spring-mvc/spring-mvc-hello-world-example/
+国内译文：http://www.importnew.com/15141.html
+
+其他：
+http://jinnianshilongnian.iteye.com/blog/1752171
+http://www.admin10000.com/document/6436.html
+
+
+访问：端口为 8082
+http://localhost:8082/tech27SringMVC/employee-module/getAllEmployees
+
+
+
+
+
+
