@@ -1,8 +1,8 @@
 
-springMVC技术详解
+Spring MVC 入门示例讲解
 参考：
-http://howtodoinjava.com/spring/spring-mvc/spring-mvc-hello-world-example/
-国内译文：http://www.importnew.com/15141.html
+http://www.importnew.com/15141.html
+原文：http://howtodoinjava.com/spring/spring-mvc/spring-mvc-hello-world-example/
 
 其他：
 http://jinnianshilongnian.iteye.com/blog/1752171
